@@ -1,0 +1,2 @@
+pyTelegramBotAPI==2.1.7
+vedis==0.7.1
