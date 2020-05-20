@@ -1,2 +1,1 @@
 worker: python3 bot.py
-web: gunicorn ecommerce2.wsgi
